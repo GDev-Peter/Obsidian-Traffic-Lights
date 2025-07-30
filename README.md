@@ -1,6 +1,3 @@
-# Obsidian Traffic lights
-This repository is an Obsidian CSS Stylesheet that modifies the titlebar to look like the MacOS defaults.
-
 ### Instalation
 Clone this repository into your vault and activate the css files in `Settings / Appearance`.
 
